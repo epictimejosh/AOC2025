@@ -31,7 +31,6 @@ def part_1():
 
 
 def part_2():
-    # Read input file
     with open("input.txt") as f:
         raw_lines = []
         for line in f:
